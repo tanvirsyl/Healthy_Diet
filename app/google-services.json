@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "123654625958",
+    "project_id": "healthydiet-cb1e9",
+    "storage_bucket": "healthydiet-cb1e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123654625958:android:92bb7feece88ff8d75b267",
+        "android_client_info": {
+          "package_name": "com.example.healthy_diet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123654625958-u0de29srnagj1sco0osr5uo7h8fqd1fg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthy_diet",
+            "certificate_hash": "f0e4a8e648d655867101fc2648fd2e62373ecef2"
+          }
+        },
+        {
+          "client_id": "123654625958-bt6epf2j9ok9nucrrj5irgub6396mkv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtv6mDag8R5ceBC91R89XrQH0hGRmu_Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123654625958-bt6epf2j9ok9nucrrj5irgub6396mkv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
